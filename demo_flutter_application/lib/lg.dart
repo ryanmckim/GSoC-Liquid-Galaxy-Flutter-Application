@@ -12,7 +12,7 @@ class _LiquidGalaxyState extends State<LiquidGalaxy> {
   Widget build(BuildContext context) {
     return const Scaffold(
       backgroundColor: Colors.white,
-      body: Center(child: Text("bye")),
+      body: Center(child: Text("lg")),
     );
   }
 }
