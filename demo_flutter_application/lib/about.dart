@@ -11,6 +11,6 @@ class _AboutState extends State<About> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-        backgroundColor: Colors.white, body: Center(child: Text("hello")));
+        backgroundColor: Colors.white, body: Center(child: Text("about")));
   }
 }

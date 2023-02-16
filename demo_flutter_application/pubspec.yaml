@@ -29,6 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   get:
+  iconly: ^1.0.1
   flutter:
     sdk: flutter
 
