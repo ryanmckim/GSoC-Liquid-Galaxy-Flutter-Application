@@ -62,6 +62,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_earth:
+    dependency: "direct main"
+    description:
+      name: flutter_earth
+      sha256: "025fcb952c1a6d1219ed8cba73d3294384504c49ab5e7562683a6cd21b6c0d56"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
   flutter_inappwebview:
     dependency: transitive
     description:
