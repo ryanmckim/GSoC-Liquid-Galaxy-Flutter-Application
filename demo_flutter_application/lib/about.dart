@@ -16,7 +16,6 @@ class _AboutState extends State<About> {
         appBar: AppBar(
           title: const Text("About Me"),
         ),
-        backgroundColor: Colors.white,
         body: Center(
             child: Stepper(
           steps: const [
